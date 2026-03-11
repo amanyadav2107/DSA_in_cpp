@@ -26,6 +26,6 @@ int sum(int n){
 }
 
 int main() {
-    cout<<sum(10);
+    cout<<sum(10  );
     return 0;
 }
