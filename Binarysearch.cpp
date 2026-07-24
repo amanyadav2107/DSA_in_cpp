@@ -19,7 +19,7 @@ int main() {
         high =mid-1;
     }
     if(index!=-1)
-    cout<<"Find at "<<index+1<<" Position";
+    cout<<"Found at "<<index+1<<" Position";
     else
     cout<<"not found";
     return 0;
